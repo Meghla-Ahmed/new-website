@@ -1,0 +1,124 @@
+body{
+font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 50px;
+    color: rgb(53, 53, 82);
+}
+.name{
+    color: purple;
+}
+#latest{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+   
+}
+h2{
+    font-size: 40px;
+    color: rgb(53, 53, 82);
+}
+h3{
+    font-size: 25px;
+    color: rgb(53, 53, 82);
+}
+h4{
+    color: white;
+    font-size: 50px;
+}
+.text-center{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(73, 65, 65);
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: purple;
+    color: seashell;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-image: linear-gradient(rgb(216, 157, 165), purple);
+    cursor: pointer;
+}
+.first-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+.first-part img{
+    width: 100%;
+}
+.second-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right: 2%;
+    margin-top: 10px;
+}
+.second-part img{
+    width: 100%;
+}
+.work-level{
+    display: inline-block;
+}
+.third-part{
+    width:20%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 220px;
+    margin-right: -150px;
+   
+    height: 80%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px whitesmoke;
+    background-color: #ffffff;
+    margin-bottom: 5%;
+}
+.third-part img{
+    width: 92%;
+     
+    margin-right: 2%;
+    margin-top: 5%;
+    
+}
+.work-level{
+    background-color: #f8f9fc;
+    display: inline-block;
+   
+}
+.work-inquiry{
+    background-image: url("images/Group_33094_1.png");
+
+    margin-left: 500px;
+ background-size: 70% 40%;
+  background-image: cover;
+    background-repeat: no-repeat;
+}
+.forth-part{
+
+    padding: 40px;
+    float: left;
+}
+#problem{
+    margin-top: 80px;
+    margin-left: 300px;
+}
+#problem-button{
+   padding:40px 80px;
+   font-size: 20px;
+}
+.foot{
+    text-align: center;
+}
